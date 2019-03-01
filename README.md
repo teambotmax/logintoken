@@ -16,6 +16,7 @@ And your mid in creator =["your mid here"]
 ```
 * Debug 
 * Improve Logic
+* Add IOSIPAD,CHROMEOS Token
 ```
 
 ## Fix and upload by 
